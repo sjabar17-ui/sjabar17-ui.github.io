@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.sjabar17_ui.twa",
+        "sha256_cert_fingerprints": ["A1:CA:B0:BC:75:FB:67:EA:79:7C:1B:B9:04:44:F6:BD:03:83:5E:52:20:F2:E1:D5:54:89:6D:2D:51:D4:3A:AC"]
+      }
+    }]
